@@ -11,7 +11,9 @@ Credentials to log-in:
  Email : hpe@hpe.com,
  password : hpe1234!
  
- Screnn shots of the screens in the pplication:
+ Note: This application currently has only been tested in android.
+ 
+ Screenshots of the application:
  
  [Login](https://user-images.githubusercontent.com/35128221/139208051-6947484e-8380-4a49-ba69-e882a96bb33e.jpg)
 ![rating](https://user-images.githubusercontent.com/35128221/139208060-c68d43cc-235e-424c-bfc4-7a26d78c10c6.jpg)
